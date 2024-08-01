@@ -1,8 +1,8 @@
 # Cardápio Restaurante
 #### Tecnologias:
----> HTML
----> CSS
----> Javascript
+- HTML
+- CSS
+- Javascript
 
 #### Créditos:
----> [Google fonts](https://fonts.google.com/specimen/Montserrat)
+- [Google fonts](https://fonts.google.com/specimen/Montserrat)
